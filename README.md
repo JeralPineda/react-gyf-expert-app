@@ -1,4 +1,4 @@
-# Gif App
+# GifExpertApp
 
 Aplicación básica de ReactJS para buscar gifs
 
